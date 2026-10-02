@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sampada0706/LeetCode/tree/master/0066-plus-one) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Sampada0706/LeetCode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
